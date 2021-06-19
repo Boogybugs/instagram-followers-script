@@ -2,6 +2,7 @@ C #!/bin/bash
 # Instagram cmds
 # coded by: Tejas Sharma
 # instagram : @imatejas
+# Note: Due to security reasons your password will not be visible on screen, so just type your password correctly and click enter and it'll work
 
 
 string4=$(openssl rand -hex 32 | cut -c 1-4)
